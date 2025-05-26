@@ -20,15 +20,15 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 
 | City | Country | Members | City Repo | Meetup URL |
 |------|---------|--------------|---------|--------|
-| Bengaluru | India 🇮🇳 | 5373 |  | [meetup.com/graphdb-bengaluru](https://www.meetup.com/graphdb-bengaluru)|
-| Mumbai | India 🇮🇳 | 795 |  | [meetup.com/graphdb-mumbai](https://www.meetup.com/graphdb-mumbai/)|
-| Pune | India 🇮🇳 | 1449 |  | [meetup.com/graphdb-pune](https://www.meetup.com/graphdb-pune)|
-| Delhi/NCR | India 🇮🇳 | 1804 |  | [meetup.com/graphdb-delhi-ncr](https://www.meetup.com/graphdb-delhi-ncr/)|
-| Singapore | Singapore 🇸🇬 | 1182 |  | [meetup.com/graphdb-singapore](https://www.meetup.com/graphdb-singapore/)|
-| Sydney | Australia 🇦🇺 | 1385 |  | [meetup.com/graphdb-sydney](https://www.meetup.com/graphdb-sydney/)|
-| Melbourne | Australia 🇦🇺 | 712 |  | [meetup.com/graphdb-melbourne](https://www.meetup.com/graphdb-melbourne/)|
-| Brisbane | Australia 🇦🇺 | 156 |  | [meetup.com/graphdb-brisbane](https://www.meetup.com/graphdb-brisbane/)|
-| Tokyo | Japan 🇯🇵 | 559 |  | [meetup.com/graphdb-tokyo](https://www.meetup.com/graphdb-tokyo/)|
+| Bengaluru | India 🇮🇳 | 5373 | [/bengaluru](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-bengaluru) |  [meetup.com/graphdb-bengaluru](https://www.meetup.com/graphdb-bengaluru) |
+| Mumbai | India 🇮🇳 | 795 | [/mumbai](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-mumbai) | [meetup.com/graphdb-mumbai](https://www.meetup.com/graphdb-mumbai/) |
+| Pune | India 🇮🇳 | 1449 | [/pune](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-pune) | [meetup.com/graphdb-pune](https://www.meetup.com/graphdb-pune) |
+| Delhi/NCR | India 🇮🇳 | 1804 | [/delhi-ncr](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-delhi-ncr) | [meetup.com/graphdb-delhi-ncr](https://www.meetup.com/graphdb-delhi-ncr/) |
+| Singapore | Singapore 🇸🇬 | 1182 | [/singapore](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-singapore) | [meetup.com/graphdb-singapore](https://www.meetup.com/graphdb-singapore/) |
+| Sydney | Australia 🇦🇺 | 1385 | [/sydney](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-sydney) | [meetup.com/graphdb-sydney](https://www.meetup.com/graphdb-sydney/) |
+| Melbourne | Australia 🇦🇺 | 712 | [/melbourne](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-melbourne) | [meetup.com/graphdb-melbourne](https://www.meetup.com/graphdb-melbourne/) |
+| Brisbane | Australia 🇦🇺 | 156 | [/brisbane](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-brisbane) | [meetup.com/graphdb-brisbane](https://www.meetup.com/graphdb-brisbane/) |
+| Tokyo | Japan 🇯🇵 | 559 | [/tokyo](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-tokyo) | [meetup.com/graphdb-tokyo](https://www.meetup.com/graphdb-tokyo/) |
 
 *Want to start a meetup in your city? [Create an issue](../../issues/new) or reach out to us!*
 
