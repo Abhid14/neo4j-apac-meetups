@@ -1,4 +1,4 @@
-
+![PXL_20250521_103324248](https://github.com/user-attachments/assets/f68e77a2-8b7e-4977-89b5-d161231cb215)
 
 Find all pictures here: [https://www.meetup.com/graphdb-singapore/photos/35262690/](https://www.meetup.com/graphdb-singapore/photos/35262690/)
 
