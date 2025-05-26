@@ -18,13 +18,17 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 
 ### Active Meetup Groups
 
-| City | Country | Organizer(s) | Members | City Repo | Meetup URL |
+| City | Country | Members | City Repo | Meetup URL |
 |------|---------|--------------|---------|--------|--------|
-| Bengaluru | India 🇮🇳 | [@sidagarwal04](https://github.com/sidagarwal04) | 5373 |  | [meetup.com/graph-database-bangalore/](https://www.meetup.com/graph-database-bangalore/)|
-| Mumbai | India 🇮🇳 | - | - | 🟡 Planned |
-| Singapore | Singapore | - | - | 🟡 Planned |
-| Sydney | Australia | - | - | 🟡 Planned |
-| Tokyo | Japan | - | - | 🟡 Planned |
+| Bengaluru | India 🇮🇳 | 5373 |  | [meetup.com/graphdb-bengaluru](https://www.meetup.com/graphdb-bengaluru)|
+| Mumbai | India 🇮🇳 | 795 |  | [meetup.com/graphdb-mumbai](https://www.meetup.com/graphdb-mumbai/)|
+| Pune | India 🇮🇳 | 1449 |  | [meetup.com/graphdb-pune](https://www.meetup.com/graphdb-pune)|
+| Delhi/NCR | India 🇮🇳 | 1804 |  | [meetup.com/graphdb-delhi-ncr](https://www.meetup.com/graphdb-delhi-ncr/)|
+| Singapore | Singapore 🇸🇬 | 1182 |  | [meetup.com/graphdb-singapore](https://www.meetup.com/graphdb-singapore/)|
+| Sydney | Australia 🇦🇺 | 1385 |  | [meetup.com/graphdb-sydney](https://www.meetup.com/graphdb-sydney/)|
+| Melbourne | Australia 🇦🇺 | 712 |  | [meetup.com/graphdb-melbourne](https://www.meetup.com/graphdb-melbourne/)|
+| Brisbane | Australia 🇦🇺 | 156 |  | [meetup.com/graphdb-brisbane](https://www.meetup.com/graphdb-brisbane/)|
+| Tokyo | Japan 🇯🇵 | 559 |  | [meetup.com/graphdb-tokyo](https://www.meetup.com/graphdb-tokyo/)|
 
 *Want to start a meetup in your city? [Create an issue](../../issues/new) or reach out to us!*
 
