@@ -18,10 +18,10 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 
 ### Active Meetup Groups
 
-| City | Country | Organizer(s) | Members | Status |
-|------|---------|--------------|---------|--------|
-| Bangalore | India | [@sidagarwal04](https://github.com/sidagarwal04) | - | 🟢 Active |
-| Mumbai | India | - | - | 🟡 Planned |
+| City | Country | Organizer(s) | Members | City Repo | Meetup URL |
+|------|---------|--------------|---------|--------|--------|
+| Bengaluru | India 🇮🇳 | [@sidagarwal04](https://github.com/sidagarwal04) | 5373 |  | [meetup.com/graph-database-bangalore/](https://www.meetup.com/graph-database-bangalore/)|
+| Mumbai | India 🇮🇳 | - | - | 🟡 Planned |
 | Singapore | Singapore | - | - | 🟡 Planned |
 | Sydney | Australia | - | - | 🟡 Planned |
 | Tokyo | Japan | - | - | 🟡 Planned |
