@@ -19,7 +19,7 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 ### Active Meetup Groups
 
 | City | Country | Members | City Repo | Meetup URL |
-|------|---------|--------------|---------|--------|--------|
+|------|---------|--------------|---------|--------|
 | Bengaluru | India 🇮🇳 | 5373 |  | [meetup.com/graphdb-bengaluru](https://www.meetup.com/graphdb-bengaluru)|
 | Mumbai | India 🇮🇳 | 795 |  | [meetup.com/graphdb-mumbai](https://www.meetup.com/graphdb-mumbai/)|
 | Pune | India 🇮🇳 | 1449 |  | [meetup.com/graphdb-pune](https://www.meetup.com/graphdb-pune)|
