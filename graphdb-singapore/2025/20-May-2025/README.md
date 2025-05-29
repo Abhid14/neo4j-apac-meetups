@@ -10,7 +10,7 @@ Agenda
 - 6:20 PM: Announcements and Welcome Note
 - 6:30 PM: [Unlocking the Power of Graph Databases with Neo4j](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-singapore/2025/20-May-2025/Unlocking%20the%20Power%20of%20Graph%20Databases%20with%20Neo4j.pdf) by Ilya Verbitskiy, Solution Architect
 - 7:00 PM: [Bridging Natural Language and Databases: A Knowledge Graph Approach to Text-to-SQL](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-singapore/2025/20-May-2025/Neo4j%20Meetup%20Tech%20Talk%20-%20Kenneth%20Leung%20-%2020250521.pdf) by Kenneth Leung, Senior Data Scientist, Boston Consulting Group
-- 7:30 PM: [The Power of GraphRAG - Architectures and Patterns](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-singapore/2025/20-May-2025/GraphRAG%20Architectures%20Presentation.pdf) by Michael Hunger, VP - Product Innovation & Developer Strategy,
+- 7:30 PM: [The Power of GraphRAG - Architectures and Patterns](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-singapore/2025/20-May-2025/GraphRAG%20Architectures%20Presentation.pdf) by Michael Hunger, VP - Product Innovation & Developer Strategy, Neo4j
 - 8:00pm: Networking
 - 8:30pm: doors close
 
