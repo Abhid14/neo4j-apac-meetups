@@ -14,7 +14,7 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 - **Real-world Applications**: Showcasing how organizations use Neo4j to solve complex problems
 - **Open Source**: Contributing to Neo4j ecosystem and related projects
 
-
+![clean_515656099](https://github.com/user-attachments/assets/4da695b4-72e3-4921-9221-73ebb796ff9e)
 
 ## 📍 Meetup Locations
 
