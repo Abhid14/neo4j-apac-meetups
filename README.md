@@ -14,6 +14,8 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 - **Real-world Applications**: Showcasing how organizations use Neo4j to solve complex problems
 - **Open Source**: Contributing to Neo4j ecosystem and related projects
 
+
+
 ## 📍 Meetup Locations
 
 ### Active Meetup Groups
@@ -30,39 +32,29 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 | Brisbane | Australia 🇦🇺 | 156 | [/brisbane](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-brisbane) | [meetup.com/graphdb-brisbane](https://www.meetup.com/graphdb-brisbane/) |
 | Tokyo | Japan 🇯🇵 | 559 | [/tokyo](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-tokyo) | [meetup.com/graphdb-tokyo](https://www.meetup.com/graphdb-tokyo/) |
 
-*Want to start a meetup in your city? [Create an issue](../../issues/new) or reach out to us!*
+*Want to start a meetup in your city in Asia-Pacific Region? [Create an issue using this template](../../issues/new?template=start-meetup.md) or reach out to us on [devrel@neo4j.com](mailto:devrel@neo4j.com)!* Don't worry, we'll help you get started with resources and support.
 
-## 📅 Upcoming Events
-
-Check out our [Events](../../issues?q=is%3Aissue+is%3Aopen+label%3Aevent) for upcoming meetups and workshops.
+Check out our [Meetup Pro Page](meetup.com/pro/neo4j) to see existing meetup groups.
 
 ### How to Stay Updated
 - ⭐ Star this repository to get notifications
 - 👀 Watch this repository for updates
-- 📢 Follow us on social media (links below)
-- 📧 Join our mailing lists (city-specific)
+- 📧 Subscribe to our [This Week in Neo4j Newsletter](https://neo4j.com/blog/tag/twin4j/)
 
 ## 🚀 Getting Started
 
 ### For Attendees
-1. Check the [Events](../../issues?q=is%3Aissue+is%3Aopen+label%3Aevent) section for upcoming meetups in your city
-2. RSVP on the respective meetup platform (Meetup.com, Eventbrite, etc.)
-3. Join our community discussions in [Discussions](../../discussions)
-4. Follow the [Code of Conduct](CODE_OF_CONDUCT.md)
+1. Check the [Upcoming Events](https://www.meetup.com/pro/neo4j/) section for upcoming meetups in your city
+2. RSVP/Register on the respective meetup group
+3. Join our community discussions on [Discourse Forum](https://community.neo4j.com/)
+4. Take up [GraphAcademy Courses](https://graphacademy.neo4j.com/)
+5. Join our [Neo4j Community Discord](https://discord.gg/neo4j) 
 
 ### For Speakers
 Interested in speaking at one of our meetups? We'd love to have you!
 
-1. Check our [Call for Speakers](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22call+for+speakers%22)
-2. Submit a talk proposal by creating an issue with label `talk-proposal`
-3. Include: Talk title, abstract, speaker bio, and preferred cities/dates
-
-### For Organizers
-Want to organize a Neo4j meetup in your city?
-
-1. Create an issue with label `new-meetup-city`
-2. Include: City name, your background, and initial event ideas
-3. We'll help you get started with resources and support
+1. Submit a talk proposal by creating an issue using this [template](../../issues/new?template=call-for-speakers.md)
+2. Include: Talk title, abstract, speaker bio, and preferred cities/dates
 
 ## 📚 Resources
 
@@ -72,63 +64,17 @@ Want to organize a Neo4j meetup in your city?
 - [Cypher Query Language](https://neo4j.com/developer/cypher/)
 - [Neo4j GraphAcademy](https://graphacademy.neo4j.com/)
 
-### Presentation Templates
-- [Meetup Slide Templates](./resources/templates/)
-- [Speaker Guidelines](./resources/speaker-guidelines.md)
-- [Organizer Toolkit](./resources/organizer-toolkit.md)
-
-### Code Examples
-Check out our [examples](./examples/) directory for:
-- Sample datasets
-- Cypher queries
-- Application demos
-- Workshop materials
-
-## 🤝 Community Guidelines
-
-We're committed to providing a welcoming and inclusive environment for everyone. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
-
 ### How to Contribute
 
-1. **Share Knowledge**: Contribute examples, tutorials, or documentation
+1. **Share Knowledge**: Contribute examples, tutorials, or documentation, [submit a blog](https://medium.com/neo4j), speak at one of the meetups
 2. **Organize Events**: Help organize meetups in your city
 3. **Spread the Word**: Share our events and resources with your network
 4. **Provide Feedback**: Help us improve by sharing your suggestions
-
-## 📞 Contact & Social
-
-- **Email**: [Your contact email]
-- **Twitter**: [@neo4j](https://twitter.com/neo4j)
-- **LinkedIn**: [Neo4j Company Page](https://www.linkedin.com/company/neo4j/)
-- **Discord**: [Neo4j Community Discord](https://discord.gg/neo4j)
-- **Forum**: [Neo4j Community Forum](https://community.neo4j.com/)
-
-## 🏷️ Labels & Organization
-
-We use GitHub labels to organize our content:
-
-- `event` - Upcoming meetup events
-- `talk-proposal` - Speaker submissions
-- `new-meetup-city` - Requests for new meetup locations
-- `call-for-speakers` - Open call for presentations
-- `resource` - Community resources and materials
-- `question` - Community questions and discussions
-- `good-first-issue` - Great for newcomers
 
 ## 📜 License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and adapt our materials for your own Neo4j community events!
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-- [Neo4j](https://neo4j.com/) for supporting the community
-- All our meetup organizers and volunteers
-- Speakers who share their knowledge
-- Community members who make this possible
-
 ---
 
 **Ready to join the graph revolution in APAC? 🚀**
-
-[Join a Meetup](../../issues?q=is%3Aissue+is%3Aopen+label%3Aevent) | [Propose a Talk](../../issues/new?template=talk-proposal.md) | [Start a New City](../../issues/new?template=new-city.md)
