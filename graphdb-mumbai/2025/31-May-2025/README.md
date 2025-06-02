@@ -1,6 +1,7 @@
 
 ![1748855663784](https://github.com/user-attachments/assets/65ab9623-8b85-41a9-8e9a-858252175d28)
 
+Find all pictures here: https://www.meetup.com/graphdb-mumbai/photos/35329377/
 ---
 Agenda
 
