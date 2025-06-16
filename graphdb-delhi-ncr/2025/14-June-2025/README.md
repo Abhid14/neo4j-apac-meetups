@@ -1,5 +1,6 @@
 
-![1748855663784](https://github.com/user-attachments/assets/65ab9623-8b85-41a9-8e9a-858252175d28)
+![PXL_20250614_071958164](https://github.com/user-attachments/assets/f6e38bf8-d3b1-4023-9b76-1eec5a4f4afc)
+
 
 Find all pictures here: [https://www.meetup.com/graphdb-delhi-ncr/photos/35414328/](https://www.meetup.com/graphdb-delhi-ncr/photos/35414328/)
 ---
