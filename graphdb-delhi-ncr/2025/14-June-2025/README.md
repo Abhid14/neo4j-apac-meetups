@@ -22,6 +22,7 @@ Venue: CDS Corporate Tower, Classroom 705, Masters' Union School of Business, Ph
 
 Additional Resources
 
+- [Slide Deck](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-delhi-ncr/2025/14-June-2025/Movies%20Recommendation%20Chatbot%20using%20Vertex%20AI%20(GraphDB%20Delhi_NCR)%20-%2014%20June%2C%202025.pdf)
 - NODES 2025: [https://neo4j.com/nodes-2025/](https://neo4j.com/nodes-2025/)
 - Pre-order [Building Neo4j-Powered Applications with LLMs](https://www.packtpub.com/en-us/product/building-neo4j-powered-applications-with-llms-9781836206231): Use discount code "SID25", Valid until 30th June 2025
 - Get Neo4j Certified. Take [GraphAcacdemy](graphacademy.neo4j.com) Course
