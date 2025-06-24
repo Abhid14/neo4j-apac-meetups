@@ -1,6 +1,4 @@
-
-![PXL_20250614_071958164](https://github.com/user-attachments/assets/f6e38bf8-d3b1-4023-9b76-1eec5a4f4afc)
-
+![PXL_20250624_050804181](https://github.com/user-attachments/assets/e47f3217-2b2b-494c-bf80-bca4f8ac0457)
 
 Find all pictures here: [https://www.meetup.com/graphdb-bengaluru/photos/35430691/](https://www.meetup.com/graphdb-bengaluru/photos/35430691/)
 ---
