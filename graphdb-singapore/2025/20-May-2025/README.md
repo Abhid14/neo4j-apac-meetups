@@ -18,7 +18,7 @@ Agenda
 
 Date: Wednesday, May 21, 2025
 
-Time: 6:00 PM to 8:30 PM IST
+Time: 6:00 PM to 8:30 PM
 
 Venue: #Collab Space -Level1 , PIXEL, 10 Central Exchange Green, Singapore 138649
 
