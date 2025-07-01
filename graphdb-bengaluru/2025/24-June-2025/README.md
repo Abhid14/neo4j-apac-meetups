@@ -6,7 +6,7 @@ Agenda
 
 - 10:00 am Registration & Networking
 - 10:30 am AI Alliance Overview
-- 10:35 am IBM Granite Time Series Foundation Models
+- 10:35 am IBM Granite Time Series Foundation Models [Slide Deck](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-bengaluru/2025/24-June-2025/AI_Alliance_Granite_TSFMs.pdf)
 - 10:45 am Power up LLMs to be Factual Ninjas using GraphRAG - Siddhant Agarwal, Neo4j [Slide Deck](https://github.com/sidagarwal04/neo4j-apac-meetups/blob/main/graphdb-bengaluru/2025/24-June-2025/Power%20up%20LLMs%20to%20be%20Factual%20Ninjas%20using%20GraphRAG%20(AI%20Alliance%20Meetup%20-%2024%20June%2C%202025).pdf)
 - 12:15 pm Wrap up
 
