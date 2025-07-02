@@ -22,7 +22,7 @@ The Neo4j APAC Meetups community brings together passionate individuals interest
 
 | City | Country | Members | City Repo | Meetup URL |
 |------|---------|--------------|---------|--------|
-| Bengaluru | India 🇮🇳 | 5373 | [/bengaluru](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-bengaluru) |  [meetup.com/graphdb-bengaluru](https://www.meetup.com/graphdb-bengaluru) |
+| Bengaluru | India 🇮🇳 | 6359 | [/bengaluru](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-bengaluru) |  [meetup.com/graphdb-bengaluru](https://www.meetup.com/graphdb-bengaluru) |
 | Mumbai | India 🇮🇳 | 795 | [/mumbai](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-mumbai) | [meetup.com/graphdb-mumbai](https://www.meetup.com/graphdb-mumbai/) |
 | Pune | India 🇮🇳 | 1449 | [/pune](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-pune) | [meetup.com/graphdb-pune](https://www.meetup.com/graphdb-pune) |
 | Delhi/NCR | India 🇮🇳 | 1804 | [/delhi-ncr](https://github.com/sidagarwal04/neo4j-apac-meetups/tree/main/graphdb-delhi-ncr) | [meetup.com/graphdb-delhi-ncr](https://www.meetup.com/graphdb-delhi-ncr/) |
